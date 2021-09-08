@@ -15,3 +15,4 @@ Unit	|Date	|Topic				|
 4.2| Wed, Aug 25, 2021 | [Pandas 2](https://zoom.us/rec/play/6GAKjZF9BfxlbgcyJkGDanZ9EP0jbIzfKv3BXg5G5QxznnBbP0wD1HaYNo0FGK99I673TIUiT_p5BoiO.41GvnAm3ipbizbuy)
 5.1| Mon, Aug 30, 2021 |[Matplotlib 1](https://zoom.us/rec/play/jdaMrTDJSONzV-LlHjvNdxEDSZrkoXbdDmy6Txpb0SBY26HNZTd1sDNXGC8r8tN4g7QIIEWDsJFYPm5h._NGuEMItg1VKqZsf)
 5.2| Wed, Sept  1, 2021 |[Matplotlib 2](https://zoom.us/rec/play/kzSoDn1m24WamqLaw-aJ9SPY9Oi95_Reg9x0geYlvVu62XkXURi8gZsfea-v41j9ngNdbfBZNWLuuz5s.usXZysME952CQ17P)
+6.1| Tue, Sept  7, 2021 |[API 1](https://zoom.us/rec/play/VGakSHwJZBFVl5W-sLfQl0Xr5U_lQxQeZIIZqTLY3l01CUIBi4898bDezBwhAzOFI3bZwtxgjlSgQOmT.2-z-FdaDbCWDOkZp)
